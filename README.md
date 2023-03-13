@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MrJouH4
 - 👀 I’m interested in Data science
-- 🌱 I’m Machine learning engineer
 - 📫 How to reach me ... linkedin.com/in/yousefheshamse
 
 <!---
