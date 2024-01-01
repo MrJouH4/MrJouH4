@@ -11,18 +11,18 @@ You can click the Preview link to take a look at your changes.
 
 ## Overview
 
-Welcome to my GitHub profile! I'm Yousef Hesham Mohamed Ali, a passionate data scientist based in Maadi, Cairo, Egypt. I am actively seeking internship opportunities to apply my knowledge and skills in data analysis, machine learning, and deep learning. This README serves as a snapshot of my professional journey, showcasing my key skills, training courses, education, and more.
+Welcome to my GitHub profile! I'm Yousef Hesham Mohamed Ali, a passionate data scientist who lives in Maadi, Cairo, Egypt. This README serves as a snapshot of my professional journey, showcasing my key skills, training courses, education, and more.
 
 ## Contact Information
 
 - **Email:** yousefhesham1235@gmail.com
-- **Phone:** 01017560909
+- **Phone:** +201017560909
 - **Location:** Maadi, Cairo, Egypt
 - **LinkedIn:** [linkedin.com/in/yousefheshamse](https://www.linkedin.com/in/yousefheshamse)
 
 ## Profile
 
-I am a dedicated data scientist with a focus on leveraging data analysis, machine learning, and deep learning techniques to solve real-world problems. My expertise includes image processing, object detection, and pattern recognition. I am committed to staying up-to-date with the latest research and technologies in the field, and I bring enthusiasm and a strong work ethic to every project.
+I am a dedicated data scientist with a focus on leveraging data analysis, machine learning, and deep learning techniques to solve real-world problems. My expertise includes image processing, object detection, object recognation and natural language processing. I am committed to staying up-to-date with the latest research and technologies in the field, and I bring enthusiasm and a strong work ethic to every project.
 
 ## Key Skills
 
