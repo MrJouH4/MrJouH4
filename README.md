@@ -1,11 +1,12 @@
-<!---
 - 👋 Hi, I’m @MrJouH4
 - 👀 I’m interested in Data science
 - 📫 How to reach me ... linkedin.com/in/yousefheshamse
 
+<!---
 MrJouH4/MrJouH4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+
 
 # Yousef Hesham's Data Science Portfolio
 
@@ -37,3 +38,5 @@ I am a dedicated data scientist with a focus on leveraging data analysis, machin
 - **French:** A1
 
 Feel free to explore my repositories for hands-on projects and code implementations. I'm excited about the possibilities of collaborating on impactful data science projects. Let's connect!
+
+--->
